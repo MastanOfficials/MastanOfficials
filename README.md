@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @MastanOfficials
-- 👀 I’m interested in learning a new technology's
-- 🌱 I’m currently learning MERN Stack to make a websites
-- 💞️ I’m also passionate about Full stak  Web Development
-- 📫 How to reach me mastan7222gmail.com
+👋 Hello! I am Mastan, a MCA Student.
+   A Full Stack Web Developer.
+   I use Technologies like MERN, Nextjs, etc. to make Websites.
+   I am also Passionate about Blockchain Technology.
 
-<!---
-MastanOfficials/MastanOfficials is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 About Me
+
+    🌱 I’m currently learning Nextjs, Redux, Blockchain Development.
+
+    💬 Ask me about React, Nextjs, MongoDB, Nodejs,
+
+    📫 How to reach me mastan7222@gmai.com
