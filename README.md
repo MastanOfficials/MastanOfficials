@@ -1,4 +1,4 @@
-👋 Hello! I am Mastan, a MCA Student.
+👋 Hello! I am Mastan, MCA Student.
    A Full Stack Web Developer.
    I use Technologies like MERN, Nextjs, etc. to make Websites.
    I am also Passionate about Blockchain Technology.
