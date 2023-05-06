@@ -7,7 +7,7 @@
 
     🌱 I’m currently learning Nextjs, Redux.
 
-    💬 Ask me about React, MongoDB, Nodejs,
+    💬 Ask me about Html,css, Javascript,React,
 
     📫 How to reach me mastan7222@gmail.com
      
