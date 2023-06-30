@@ -9,5 +9,5 @@
 
     💬 Ask me about Html,css, Javascript,React,
 
-    📫 How to reach me mastan7222@gmail.com
+    📫 How to reach me mastanreddi4@gmail.com
      
