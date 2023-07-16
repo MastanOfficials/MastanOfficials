@@ -7,7 +7,7 @@
 
     🌱 I’m currently learning Nextjs and NodeJS.
 
-    💬 Ask me about Html, CSS, Javascript, React, Redux
+    💬 Ask me about Html, CSS, Javascript, React, Redux, GIT, AWS Code Commit,Cypress
 
     📫 How to reach me mastanreddi4@gmail.com
      
